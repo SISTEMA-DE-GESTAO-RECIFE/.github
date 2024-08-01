@@ -1,4 +1,4 @@
-## Otimizando a Gestão de Mapeamentos em Recife: Um Sistema Integrado de Controle de Qualidade
+## Gestão de Mapeamentos em Municipios: Um Sistema Integrado de Controle de Qualidade
 
 O projeto visa otimizar e implantar um sistema de gestão e controle de qualidade para serviços de mapeamentos aerofotogramétricos e cadastro técnico territorial contratados pela Prefeitura Municipal do Recife (PMR). 
 
